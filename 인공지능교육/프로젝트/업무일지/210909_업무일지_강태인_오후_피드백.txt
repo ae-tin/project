@@ -1,0 +1,9 @@
+우선 리눅스 설치나 이런 건 중요한게 아니니까 
+
+https://jaist.dl.sourceforge.net/project/linuxvmimages/VMware/U/20.04/Ubuntu_20.04.2_VM.zip
+
+우선 이거 받으면 됩니다.
+
+리눅스 운영체제가 설치된 가상의 컴퓨터입니다.
+
+vmware 라는 프로그램으로 실행해야해요

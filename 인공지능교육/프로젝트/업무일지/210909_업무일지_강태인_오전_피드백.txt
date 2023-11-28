@@ -1,0 +1,32 @@
+import requests, json
+
+# URL 지정
+url = 'http://svc.saltlux.ai:31781'
+
+# Header 정보 지정
+headers = {'Content-Type': 'application/json; charset = utf-8'}
+
+sample = {
+    "key": "ffe069c1-6aa8-4652-bb43-a22ee1a8bc2c",
+    "serviceId": "01400309787",
+    "argument": {
+        "text": "생각을 좀 해보게 어떵해났지",
+        "local": "jeju"
+    }
+}
+response = requests.post(url, headers=headers, data=json.dumps(sample))
+
+print(response.content.decode("UTF-8"))
+
+
+이렇게 하면 정상적으로 출력해주는데
+
+해당 API 사용하면 사투리를 표준어로 바꿔주는 건 쉬울 듯
+
+문제는 사투리 음성 인식인데...
+
+pth 파일은 파이토치 모델인데 나머지 파일들은 어디에 쓰는건지 잘 모르겠네 워낙 범용적인 라이브러리의 파일이라
+
+모델에 대한 매뉴얼이나 가이드가 있는지 찾아봐야할 듯
+
+

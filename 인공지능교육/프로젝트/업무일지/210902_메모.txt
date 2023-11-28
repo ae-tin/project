@@ -1,0 +1,36 @@
+
+사투리 교정 프로그램
+
+	사투리 교정 위해 500만원씩 내고 학원서 사투리 교정하고 있는 부산시민들
+	https://www.insight.co.kr/news/330060
+	- 2021.3.21
+
+	커뮤니티 반응
+	https://www.fmkorea.com/best/3465912513
+	
+	경계억양의 연구
+	- 대화형 음성인터페이스 시스템을 위한 국어 문말 경계억양의 분류
+	- https://linguistics.ucla.edu/people/jun/ktobi/k-tobi.html
+	- intonation (높낮이 변화,pitch accent)
+		Intonation classification for L2 English speech using multi-distribution deep neural networks
+		- https://www.sciencedirect.com/science/article/pii/S0885230815300486?casa_token=jRbZDUKDD-sAAAAA:UTGUPozEdTLczxNIiazankII1erykV1Y-0xHZaVEg4KveM1lVsLsb90uUvvGCCG01WcF7j-ClXE
+
+
+헬스케어?
+	인지기능 장애 진단 모델???
+
+자율주행
+
+
+
+우선 오늘은 인공지능을 활용해서 사투리를 교정한 사례나 프로그램이 있나 자료 조사를 해보세요
+
+
+인공지능이 아니더라도 학원같은 것도 있을 수 있고 이런 서비스를 만들면 어느 정도 수요가 있을 것이다 이런 자료를 찾아봐요
+
+
+
+
+경계억양의 연구
+
+

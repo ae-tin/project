@@ -1,0 +1,19 @@
+import requests, json
+ 
+# URL 지정
+url = 'http://svc.saltlux.ai:31781'
+ 
+# Header 정보 지정
+headers = {'Content-Type': 'application/json; charset = utf-8'}
+ 
+sample = {
+    "key": "ffe069c1-6aa8-4652-bb43-a22ee1a8bc2c",
+    "serviceId": "01400309787",
+    "argument": {
+        "text": "생각을 좀 해보게 어떵해났지",
+        "local": "jeju"
+    }
+}
+response = requests.post(url,headers = headers, data = json.dumps(sample))
+ 
+response.content

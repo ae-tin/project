@@ -1,0 +1,12 @@
+https://github.com/goodatlas/zeroth
+여긴 원래 espnet으로 개발했던 그 곳인데
+
+훨씬 활용 방법이 많은 듯
+
+
+https://github.com/homink/deepspeech.pytorch.ko
+여긴 좀 간단한 듯
+
+
+
+구글 api가 성능이 그렇게 나쁘지 않다면 그대로 쓰는 것도 좋을 듯

@@ -1,0 +1,21 @@
+
+
+우분투에 아나콘다 설치
+
+웹 브라우저로 들어가서 https://github.com/hchung12/espnet-asr
+여기 참고
+
+apt instsall git
+
+
+
+git clone https://github.com/hchung12/espnet-asr		// git 에서 소스 다운
+
+cd espnet-asr						// 폴더로 이동
+
+tools/download_mdl.sh					// 모델 다운(git 만든 사람꺼)
+
+python bin/asr_inference.py --mdl mdl/zeroth_korean.zip --wav_scp evalset/zeroth_korean/data/wav.scp --config conf/decode_asr.yaml --output_dir output/zeroth_korean
+
+
+mdl/zeroth_korean.zip 이거만 나중에 aihub 모델로 변경하면 됨
