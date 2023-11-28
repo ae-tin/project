@@ -1,0 +1,32 @@
+유저
+
+유저pc
+
+
+웹
+	회원가입, 로그인, 비밀번호 찾기
+		db정보저장 1
+	javascript
+		음성녹음
+		음성blob데이터 
+			blob데이터 >> webm opus 2
+
+
+서버
+	
+	aws ec2(가상컴퓨터) 
+		Apache2
+			ssl certification >> https
+		파이썬
+			flask
+				음성인식  google cloud speech 2 3
+					음성번역 soltlux ai cloud 3
+				음성합성  google cloud speech 2
+					
+	aws rds(db) 1
+		mysql과 연결
+
+
+
+
+	
