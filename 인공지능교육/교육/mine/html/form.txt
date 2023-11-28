@@ -1,0 +1,19 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<form action="index.html" method='GET'>
+			<input type='text' name='id01'>
+			<input type='password' name='pwd01'>
+			<input type="button" value="¹öÆ°">
+		</form>
+		
+		<br><br><br><br><br><br><br>
+	</body>
+</html>
+
+
+
+
+
+

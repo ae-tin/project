@@ -1,0 +1,13 @@
+HTML 이란?
+(HyperText Markup Language : 문서를 뛰어넘는...)
+
+-웹 브라우저(Web Browser) : 웹 상을 돌아다니는 프로그램.
+	-> Internet Explorer(ie) : MS의 브라우저.	(웹 표준을 안지킴)
+	-> Chrome : Google의 브라우저.				(웹 표준을 잘 지킴)
+	-> Safari : Apple
+	-> Firefox, Opera...
+	
+-웹(Web) : 거미줄, 네트워크 상에 있는 연결점들 ...
+
+-브라우저 : 프로그램, 웹 기능을 처리하는 프로그램
+	-> 

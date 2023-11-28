@@ -1,0 +1,51 @@
+<!-- 아주 중요한 Input tag! -->
+<html>
+	<head>
+	</head>
+	<body><br><br><br><br>
+		<!-- img 태그 처럼 닫는 태그가 없다. -->
+		<!-- <br/> => 옛날사람, <br> 요즘사람 -->
+		
+		<!-- 
+			중요! 자... 입력받으면 뭘 할까?
+			받아서 써야지요.
+			그 때 같이 쓰는 태그가 form 태그이다.
+		-->
+		
+		<form style='background: yellow;'>	<!-- form 태그는 입력 값에 대한 내용을 전달한다. -->
+			
+			<!-- 정보를 다른 페이지로 보내는 특별한 방법 form -->
+			
+			<!-- form 안에서만 사용하는 특별한 type -->
+			<!-- <input type='reset'> -->
+			<!-- submit -->
+			<input type='submit'><br><br>
+			
+			<input><br>
+			<input type='text' value='값1'><br>
+			<input type='password' value='값2'><br>
+			<input type='button' value='버튼입니다'><br>
+			<!-- radio는 단일 선택 -->
+			<label>
+				<input type='radio' name='gender' value='1'>남성
+			</label>
+			<label>
+				<input type='radio' name='gender' value='2'>여성
+			</label>
+			
+			<br>
+			<!-- checkbox는 다중 선택 -->
+			<label><input type='checkbox' name='hobby' value='독서'>독서</label>
+			<label><input type='checkbox' name='hobby' value='movie'>영화감상</label>
+			<br>
+			<br>
+			<!-- 브라우저 호환성이 다르다. -->
+			<input type='number'><br>
+			<input type='date'><br>
+			<!-- 
+				type = 입력 종류
+				value = 입력 값
+			-->
+		</form>
+	</body>
+</html>		

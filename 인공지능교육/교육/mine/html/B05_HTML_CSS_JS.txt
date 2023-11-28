@@ -1,0 +1,16 @@
+HTML
+CSS
+JavaScript의 관계.
+
+HTML	HyperText Markup Language
+
+CSS		Cascading Style Sheets
+
+JS		JavaScript
+
+
+HTML 은 태그다
+CSS 는 	style이다.
+JS 는 	동적이다.
+
+이 셋이 모여서 웹사이트를 구성한다.
