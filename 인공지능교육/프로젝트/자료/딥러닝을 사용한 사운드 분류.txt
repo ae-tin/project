@@ -1,0 +1,22 @@
+
+딥러닝을 사용한 사운드 분류 과정 - 나름 세세하게 돼있어서 좋음 소스코드도 있음
+https://ichi.pro/ko/dib-leoning-eul-sayonghan-saundeu-bunlyu-153668193718455
+
+사운드 데이터 처리 과정
+https://hyunlee103.tistory.com/35
+
+https://honeyjamtech.tistory.com/4
+
+https://youdaeng-com.tistory.com/5
+
+
+사운드 데이터 셋?
+https://webzine.aihub.or.kr/insight/list.html
+
+한국어음성을이용한연령분류딥러닝알고리즘기술개발 - 논문
+
+cnn 음성인식
+
+http://www.rex-ai.info/docs/AI_Example_CNN_speech_recognize
+
+
