@@ -1,0 +1,4 @@
+curl
+zip
+libsndfile1
+ffmpeg
