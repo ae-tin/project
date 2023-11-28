@@ -1,0 +1,11 @@
+TabNet : 1st classificaiton result, f1_score_best : 0.720 , f1_thres_best : 0.340, recall_score : 0.881 
+XGBoost : 1st classificaiton result, f1_score_best : 0.733 , f1_thres_best : 0.340, recall_score : 0.896 
+TabNet : 1st classificaiton result, f1_score_best : 0.721 , f1_thres_best : 0.300, recall_score : 0.899 
+XGBoost : 1st classificaiton result, f1_score_best : 0.731 , f1_thres_best : 0.330, recall_score : 0.904 
+Hard Voting Ensemble F1 Score for 1st Classification --- f1_score_best(tab_f1,xgb_f1) : 0.724 , weight_thres_best : 0.000, thres_in_thres : 0.000, recall_score : 0.904 
+Soft Voting Ensemble F1 Score for 1st Classification --- f1_score_best(tab_prob,xgb_prob) : 0.732 , weight_thres_best : 0.100, thres_in_thres : 0.340, recall_score : 0.904 
+TabNet : 2nd classificaiton result, f1_score_best : 0.627 , f1_thres_best : 0.720, recall_score : 0.671 
+XGBoost : 2nd classificaiton result, f1_score_best : 0.635 , f1_thres_best : 0.300, recall_score : 0.675 
+Hard Voting Ensemble F1 Score for 2nd Classification --- f1_score_best(tab_f1,xgb_f1) : 0.629 , weight_thres_best : 0.000, thres_in_thres : 0.000, recall_score : 0.675 
+Soft Voting Ensemble F1 Score for 2nd Classification --- f1_score_best(tab_prob,xgb_prob) : 0.636 , weight_thres_best : 0.220, thres_in_thres : 0.400, recall_score : 0.677 
+Final 2nd Classification --- 2nd Phase only F1 Score : 0.635 , 1st & 2nd Phase F1 Score : 0.610 
